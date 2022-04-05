@@ -25,5 +25,13 @@ header {
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
+    justify-content:space-around;
+}
+
+h1 {
+    color: var(--white);
+}
+
+.white-text {
+    color: var(--white);
 }
