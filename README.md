@@ -2,4 +2,4 @@ Recipe-Generator seeks to answer the age old question "What's for Dinner?".  By 
 
 The site is live at https://wmskillas.github.io/Recipe-Generator/
 
-04/05/2022 screenshot:
+04/05/2022 screenshot: ![image](https://user-images.githubusercontent.com/101309406/161823367-dd06cbef-57ed-42a5-9c8a-ce9f92621263.png)
