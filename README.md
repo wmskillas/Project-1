@@ -1,6 +1,5 @@
-# super-team-project
+Recipe-Generator seeks to answer the age old question "What's for Dinner?".  By choosing from ingredients to include or exclude, or by searching for a specific ingredient, users will be able to generate a random recipe at the click of a button.
 
-I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
-I enjoy Javascript because it stretches my brain each day.
+The site is live at https://wmskillas.github.io/Recipe-Generator/
 
-# super-team-project
+04/05/2022 screenshot:
