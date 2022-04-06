@@ -41,3 +41,9 @@ h1 {
 .bg-img {
     background-image:url() ;
 }
+
+div p {
+    color: black;
+    text-decoration: underline;
+    font-weight:bold ;
+}
