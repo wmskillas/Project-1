@@ -13,3 +13,10 @@ fetch(
   .then((response) => response.json())
   .then((response) => console.log(response))
   .catch((err) => console.error(err));
+
+
+var APIKey = '4f3c4ac653654ea0a6a8bcc5050be06e'
+
+var queryRecipe = "https://api.spoonacular.com/recipes/complexSearch?apiKey=" + APIKey "&query=" + searchBar + "&cuisine=" + #Include + "&excludeCuisine=" + excludeMeal;
+
+// API Documentation page: https://spoonacular.com/food-api/docs
